@@ -1,4 +1,4 @@
-# Muhammad Ismail
+# Ismail Muhammad
 
 **Software Engineer (Frontend) — React · Next.js · React Native · TypeScript**
 
