@@ -39,4 +39,3 @@ Researching and designing **Barrierefrei Studio**, an accessibility remediation 
 ## Elsewhere
 
 [Portfolio](https://www.heyismail.com) · [LinkedIn](https://www.linkedin.com/in/heyismail) · [Instagram](https://www.instagram.com/hey.ismail1) · [Facebook](https://www.facebook.com/heyismail.dev) · [Email](mailto:ismaeel.kheshgi@gmail.com)
-```
