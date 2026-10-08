@@ -1,60 +1,42 @@
-# Hi, I'm Ismail 👋
+# Muhammad Ismail
 
-Frontend / Full-Stack Software Engineer with 5 years of experience building
-production web and mobile applications. Currently at ARVO, previously at
-CodeNinja and freelance. Based in Lahore, Pakistan. open to relocation.
+**Software Engineer (Frontend) — React · Next.js · React Native · TypeScript**
 
-I focus on turning product requirements into simple, reliable software that
-people actually use, across React, React Native, and Node.js.
+I’m a software engineer with 5 years of professional experience, mostly focused on frontend development across web and mobile products. I currently work at ARVO, building frontend experiences with React, Next.js, and TypeScript as part of a team.
 
 ## What I work with
 
-**Frontend**
-React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Material UI
+**Frontend** React · Next.js · TypeScript · JavaScript · HTML · CSS · Tailwind CSS · Material UI
 
-**Mobile**
-React Native · Expo
+**Mobile** React Native · Expo
 
-**Backend**
-Node.js · Express.js · REST APIs
+**Integration** REST APIs · OAuth · OpenAI API · Stripe · Third-party APIs
 
-**Databases**
-PostgreSQL · MongoDB
+**Backend (personal projects)** Node.js · Express · PostgreSQL · MongoDB
 
-**Tools**
-Git · GitHub · Jira · Postman · Figma
+**Tools** Git · GitHub · Jira · Figma · Postman · Vercel
+
+**Learning now** Web accessibility (WCAG 2.2) · Playwright · axe-core
 
 ## Selected work
 
-- **[Graana.com](https://www.graana.com)**: Pakistan's first large-scale
-  online real estate marketplace. Worked as mobile application developer;
-  led a full migration of the React Native codebase from class-based to
-  functional components with Hooks, improving maintainability and app
-  stability. The app has surpassed **1M+ downloads** on the Google Play Store.
+- **ARVO** — Frontend work on role-based dashboards, digital textbooks, assignments, progress tracking, and real-time notifications. My part: building the interface and connecting it to the platform APIs; in daily use across schools in Pakistan.
 
-- **[Supervise](https://www.supervise.work)**: Multi-app productivity tracker
-  for engineering and remote teams. Built integrations across GitHub, Figma,
-  and Google Docs into a unified activity dashboard with per-person
-  performance breakdowns and automated reporting, replacing manual standups.
+- **Graana** — React Native work on the Graana.com app. My part: migrated the codebase from class components to function components with Hooks as part of the team and integrated the app with back-end APIs; the Android app has passed 1M+ downloads on Google Play.
 
-- **[Whatever AI](https://www.whatever-ai.com)**: All-in-one AI content
-  platform for image generation, photo editing, background removal, and
-  music creation. Built end-to-end with a fast, low-friction UX and a
-  freemium-to-paid conversion path.
+- **Whatever AI** — AI platform for image generation, photo editing, background removal, and music creation. My part: frontend, AI/API integration, and the free-to-paid upgrade flow with Stripe for Atlas Apps, UK.
 
-- **[ARVO](https://arvo.com.pk)**: Full-stack LMS platform for Pakistan's
-  education sector. Built role-based dashboards for students, teachers,
-  admins, and parents, with digital textbooks, assignment tracking, and
-  real-time notifications, deployed and actively used across schools.
+- **Supervise** — Productivity tracker bringing GitHub, Figma, and Google Docs activity into one dashboard. My part: frontend activity dashboard, per-person breakdowns, automated reports, and API integration.
 
-Mobile apps I've shipped have a combined total of **1M+ downloads** on the
-Google Play Store.
+- **Vectum** — Multilingual website for VECTUM SRL. My part: built the site with Italian, English, and Spanish versions, metadata, animated freight journey, reduced-motion support, keyboard-operable navigation, and accessibility statement.
 
 ## Currently
 
-Working on production web and mobile applications at ARVO, and preparing to
-relocate to Germany as a frontend/full-stack engineer.
+Researching and designing **Barrierefrei Studio**, an accessibility remediation workspace for small web agencies and e-commerce teams. No code yet.
 
-## Connect
+[Case study](https://www.heyismail.com/work/barrierefrei-studio)
 
-[LinkedIn](https://www.linkedin.com/in/heyismail) · [Portfolio](https://www.heyismail.com)
+## Elsewhere
+
+[Portfolio](https://www.heyismail.com) · [LinkedIn](https://www.linkedin.com/in/heyismail) · [Instagram](https://www.instagram.com/hey.ismail1) · [Facebook](https://www.facebook.com/heyismail.dev) · [Email](mailto:ismaeel.kheshgi@gmail.com)
+```
